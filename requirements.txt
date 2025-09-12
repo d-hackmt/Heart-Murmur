@@ -1,8 +1,39 @@
+# ui
 streamlit
-tensorflow
+
+
+# Basic DS  
 numpy
 pandas
-scikit-learn
 matplotlib
+
+
+# model loading
+scikit-learn
+tensorflow
+
+
+# sound processing
 librosa
 soundfile
+
+
+# autogen
+autogen-agentchat==0.5.7
+autogen-ext[openai]
+python-dotenv
+autogen-core
+pydantic
+autogen-ext[ollama]
+
+
+# langchain
+langchain
+langchain-community
+langchain_google_genai
+langchain-text-splitters
+chromadb
+faiss-cpu
+openpyxl
+langchain-huggingface
+sentence-transformers
