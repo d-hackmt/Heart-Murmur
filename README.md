@@ -1,8 +1,12 @@
+
+
 # 🎵 Heart Murmur Detection with LSTM
 
 A deep learning application that uses LSTM neural networks to detect heart murmurs from audio recordings. The application provides a user-friendly Streamlit interface for uploading audio files and getting real-time predictions with signal processing.
 
-
+---
+<img width="1001" height="488" alt="Heart_Murmur_Pipelinee drawio" src="https://github.com/user-attachments/assets/317367a4-20ad-410e-b3f3-4e53b8f816d4" />
+---
 
 ## 📁 Project Structure
 
